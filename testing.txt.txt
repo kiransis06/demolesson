@@ -1,2 +1,4 @@
 adding something
 adding lin1
+adding line2
+adding line3
